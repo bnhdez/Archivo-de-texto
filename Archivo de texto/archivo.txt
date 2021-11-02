@@ -1,3 +1,3 @@
-1, pedro
+1, pedro, paiz, 22, 8
 2, juan, garcia, 23, 9
 3, ana, romero, 25, 8

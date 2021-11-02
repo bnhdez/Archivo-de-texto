@@ -15,7 +15,7 @@ namespace ej
                     int i = 1;
                     while (i <= 3)
                     {
-                        Console.WriteLine("Ingrese sus datos(id,nombre,apellido y nota");
+                        Console.WriteLine("Ingrese sus datos(id,nombre,apellido y nota)");
                         id = Console.ReadLine();
 
                         StreamWriter.WriteLine(id);
